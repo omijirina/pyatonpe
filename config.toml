@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://pyatonpe.vercel.app/"
 languageCode = "en"
 title = "Pyatonpe"
 theme = "hargo"
